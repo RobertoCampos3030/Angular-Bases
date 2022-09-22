@@ -12,6 +12,7 @@ exports:[
 ],
 imports:[
     CommonModule
+    
 ]
 })
 export class HeroeModule{}
